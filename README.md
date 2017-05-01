@@ -24,7 +24,7 @@
   
   f) Factors' levels Check
   
-  g) SMOTE technique to handle Response levels Imbalancement
+  g) SMOTE technique to handle Response variable's levels Imbalancement
   
   h) Training - Test split dataset using Bootstrap method (70% - 30%)
   
