@@ -7,7 +7,7 @@
 # Tasks:
 - Credit-Card-type dataset from online booking site
 - Use several multi-Classification algorithms to predict the Credit-Card type and compare them using
-  'avg Accuracy' and 'Sensitivity' 'Specificity' and 'Precision' performance metric
+  'avg Accuracy' and 'Sensitivity', 'Specificity' and 'Precision' performance metric
 
 
 - Steps performed in this project: 
